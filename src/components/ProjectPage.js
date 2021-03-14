@@ -8,7 +8,7 @@ function ProjectPage(props) {
       {(value) => {
         const { projects } = value;
         const id = props.match.params.id;
-        const project = projects.filter((project) => project.id == id)[0];
+        const project = projects.filter((project) => project.id === id)[0];
         const { imageUrl, title, body } = project;
         return (
           <div className="container py-5 my-5 markdown">
