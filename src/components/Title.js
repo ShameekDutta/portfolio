@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import DummyImage from "../assets/dummy_image.png";
+import Image from "../assets/shameek.jpg";
 
 function Title(props) {
   const { name, leadText } = props;
@@ -11,8 +11,8 @@ function Title(props) {
         <div className="col-12 col-md-6">
           <img
             className="img-fluid rounded-circle w-75"
-            src={DummyImage}
-            alt="dummy"
+            src={Image}
+            alt="Shameek"
           />
         </div>
         <div className="col-12 col-md-6 pt-5">

@@ -26,7 +26,7 @@ function SkillsSection() {
                 <span className="text-info">Technology</span> stack
               </h1>
               <div className="lead pb-5">
-                I design, develop and deliver with these weapons
+                I am a Work In Progress in these languages
               </div>
               {finalSkillRow}
             </div>

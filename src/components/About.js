@@ -14,37 +14,19 @@ function About() {
           <div className="col-12 col-md-6 px-5 pt-5">
             <h5>What I can do?</h5>
             <p className="text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud labore tempor ut labore
-              exercitation.
+              I can develop applications using the MERN stack. I also know the 
+              languages Java, C, and C++. Backend comes more naturally to me 
+              but I am trying to become more proficient in frontend development
+              as well.
             </p>
           </div>
           <div className="col-12 col-md-6 px-5 pt-5">
             <h5>What am I doing currently?</h5>
             <p className="text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud labore tempor ut labore
-              exercitation.
-            </p>
-          </div>
-          <div className="col-12 col-md-6 px-5 pt-5">
-            <h5>What do I believe in?</h5>
-            <p className="text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud labore tempor ut labore
-              exercitation.
-            </p>
-          </div>
-          <div className="col-12 col-md-6 px-5 pt-5">
-            <h5>How I can help you?</h5>
-            <p className="text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud labore tempor ut labore
-              exercitation.
+              Currently I am pursuing my Btech CSE degree from SRMIST and I am
+              in my second year. I am also working as a freelance backend developer
+              for an app and undergoing an internship as software developer at a
+              startup organisation.
             </p>
           </div>
         </div>

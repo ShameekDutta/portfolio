@@ -17,11 +17,8 @@ function Footer() {
           </Link>
         </div>
         <div className="row">
-          <div className="col-12 col-md-4 py-3">
+          <div className="col-12 col-md-6 py-3">
             <h5 className="text-info pb-3">More links</h5>
-            <a href="/allblogs" className="text-light d-block">
-              Blogs
-            </a>
             <Link to="/" className="text-light d-block">
               Home
             </Link>
@@ -31,11 +28,8 @@ function Footer() {
             <Link to="/contact" className="text-light d-block">
               Contact me
             </Link>
-            <Link to="/write-a-recommendation" className="text-light">
-              Write a recommendation <i className="fas fa-heart text-light"></i>
-            </Link>
           </div>
-          <div className="col-12 col-md-4 text-light text-justify py-3">
+          {/*<div className="col-12 col-md-4 text-light text-justify py-3">
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -47,22 +41,22 @@ function Footer() {
               Curabitur pretium tincidunt lacus nulla gravida orci a odio sit
               aliquip ut nullam.
             </p>
-          </div>
-          <div className="col-12 col-md-4 py-3">
+          </div>*/}
+          <div className="col-12 col-md-6 py-3">
             <h5 className="text-info pb-3">Social</h5>
-            <Link to="/">
-              <i className="fab fa-linkedin text-light h1 d-block"></i>
-            </Link>
-            <Link to="/">
-              <i className="fab fa-github text-light h1 d-block"></i>
-            </Link>
-            <Link to="/">
-              <i className="fas fa-envelope text-light h1 d-block"></i>
-            </Link>
+            <a href="https://github.com/ShameekDutta" className="text-light d-block">
+              Github
+            </a>
+            <a href="https://www.linkedin.com/in/shameek-dutta/" className="text-light d-block">
+              LinkedIn
+            </a>
+            <a href="https://www.instagram.com/shameek_dutta7/" className="text-light d-block">
+              Instagram
+            </a>
           </div>
         </div>
         <div className="text-muted py-3">
-          <p>Copyright © Shameek Dutta 2021</p>
+          <p>Copyright © Shameek Dutta 2022</p>
         </div>
       </div>
     </footer>
