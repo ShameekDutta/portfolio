@@ -43,7 +43,8 @@ class Contact extends Component {
         </h1>
         <div className="row justify-content-center">
           <div className="col-11 col-lg-5">
-            <form name="contact" method="POST" data-netlify="true" onSubmit={this.onSubmit}>
+            <form name="contact" method="POST" onSubmit={this.onSubmit}>
+            <input type="hidden" name="form-name" value="contact" />
               <div className="form-group">
                 <label htmlFor="name">Name *</label>
                 <input
