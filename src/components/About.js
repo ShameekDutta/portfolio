@@ -15,7 +15,7 @@ function About() {
             <h5>What I can do?</h5>
             <p className="text-justify">
               I can develop applications using the MERN stack. I also know the 
-              languages Java, C, and C++. Backend comes more naturally to me 
+              languages Java, C, C++, and Python. Backend comes more naturally to me 
               but I am trying to become more proficient in frontend development
               as well.
             </p>
@@ -24,7 +24,7 @@ function About() {
             <h5>What am I doing currently?</h5>
             <p className="text-justify">
               Currently I am pursuing my Btech CSE degree from SRMIST and I am
-              in my second year. I am also working as a freelance backend developer
+              in my third year. I am also working as a freelance backend developer
               for an app and undergoing an internship as software developer at a
               startup organisation.
             </p>
