@@ -7,7 +7,7 @@ import About from "./About";
 function HomePage() {
   return (
     <div>
-      <Title name="Shameek Dutta" leadText="Second Year CSE Student at SRMIST" />
+      <Title name="Shameek Dutta" leadText="Third Year CSE Student at SRMIST" />
       <SkillsSection />
       <ProjectSection />
       <About />
